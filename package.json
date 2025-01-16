@@ -11,10 +11,13 @@
   },
   "dependencies": {
     "-": "^0.0.1",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
     "firebase": "^10.14.0",
     "firebase-tools": "^13.22.0",
     "g": "^2.0.1",
-    "vue": "^3.4.29"
+    "vue": "^3.4.29",
+    "vue-router": "^4.5.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
